@@ -1,0 +1,37 @@
+.projectsContainer {
+    margin: 0
+}
+
+#projects {
+    font-family: 'Spartan', sans-serif;
+    font-weight: 500;
+    color: #2D2D2B;
+}
+
+
+@media (max-device-width: 375px) and (max-device-width : 812px) {
+    .projectsContainer {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin: 0;
+        align-items: center;
+       
+    }
+
+    #projects {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin: 0;
+        align-items: center;
+       
+    }
+
+    .card-text {
+        text-align: left;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+  
+  }

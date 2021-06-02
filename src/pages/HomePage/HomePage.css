@@ -1,0 +1,45 @@
+.HomePage-header {
+  background-color: #f6f5f0;
+  }
+  
+
+  .btn {
+    background-color: #BA494B;
+    border-color: #BA494B
+  }
+
+.btn:hover
+{
+  color: white !important;
+  box-shadow: 0 5px;
+  background-color: #A6B4B3;
+  border-color:#A6B4B3 ;
+  
+  
+
+}
+
+a {
+  text-decoration: none !important;
+  
+
+}
+
+.HomePage {
+  background-color: #f6f5f0 !important;
+}
+
+
+
+@media (max-device-width: 375px) and (max-device-width : 812px) {
+  .HomePage-header { 
+    display: flex;
+    align-items: left;
+    text-align: justify;
+ 
+ 
+  }
+
+
+
+}
