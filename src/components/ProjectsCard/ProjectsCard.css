@@ -5,8 +5,7 @@
 }
 
 #viewCode {
-    margin-left: 10px;
-    
+    margin-left: 10px;   
 }
 .card {
     border-width: 0 !important;
@@ -14,6 +13,7 @@
     padding-bottom: 50px;
     color: #2D2D2B;
 }
+
 .card-body {
     padding: 0;
     margin: 0;
@@ -43,8 +43,7 @@
 
 .Next {
     margin: 0;
-    background-color: #f6f5f0 !important;
-    
+    background-color: #f6f5f0 !important; 
 }
 
 .projectContainer {
@@ -53,21 +52,17 @@
     justify-content: space-between;
     margin: 0;
     background-color: #f6f5f0 !important;
-
 }
 
 .projectImage {
     width: 100%;
     height: 100%;
     margin: 0
-
-  
 }
 
 .projectImages {
     display: flex;
     justify-content: flex-end;
-
 }
 
 hr {
@@ -83,10 +78,7 @@ i {
     color: #2D2D2B;
     font-family: 'Spartan', sans-serif;
     font-weight: 600;
-    
- 
 }
-
 
 @media (max-device-width: 375px) and (max-device-width : 812px) {
     .projectContainer {
@@ -94,40 +86,30 @@ i {
         flex-direction: column;
         margin: 0;
         align-items: center;
- 
-    
     }
 
     .content btn {
         display: flex;
         flex-direction: column;
         align-items: center;
-   
-       
- 
-    
     }
+
     .card {
         display: flex;
         flex-direction: column;
         align-items: center;
         margin: 0;
- 
     }  
     
     .projectImage {
         width: 100%;
         margin-top: 50px;
         margin-bottom: 20px;
-       
-    
-    
     }
 
     .projectImages {
      margin: 0
        
     }
-
 }
  

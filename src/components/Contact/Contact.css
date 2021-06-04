@@ -22,13 +22,11 @@
     font-weight: 600;
     font-size: 30px;
     color: #2D2D2B;
-
 }
 
 a :hover {
     color: #BA494B
 }
-
 
 @media (max-device-width: 375px) and (max-device-width : 812px) {
     .email {

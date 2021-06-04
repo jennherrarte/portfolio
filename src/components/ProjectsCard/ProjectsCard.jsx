@@ -7,8 +7,8 @@ const ProjectsCard = (props) => {
     return(
         <Card>
         <Card.Body>
-        <div class="projectContainer">
-            <div id={props.id} class="content">
+        <div className="projectContainer">
+            <div id={props.id} className="content">
             <Card.Title>{props.title}</Card.Title>
             <br></br>
             <Card.Text>

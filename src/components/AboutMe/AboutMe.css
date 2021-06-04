@@ -1,19 +1,12 @@
 .header {
     font-family: 'Spartan', sans-serif;
     font-weight: 600;
-    color: #BA494B;
-    background-color: #f6f5f0 !important;
-   
-   
+    color: #BA494B; 
 }
 
 .aboutP {
     font-family: 'Spartan', sans-serif;
     color: #2D2D2B;
-}
-
-main {
-    background-color: #f6f5f0 !important;
 }
 
 @media (max-device-width: 375px) and (max-device-width : 812px) {
@@ -34,5 +27,4 @@ main {
         align-items: center;
        
     }
-  
   }
