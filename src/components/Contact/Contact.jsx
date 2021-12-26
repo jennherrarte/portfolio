@@ -10,7 +10,7 @@ const Contact = () => {
         <br></br>
         <h3 className="touch">Get in Touch!</h3>
             <br></br>
-            <a target="_blank" href="mailto:hello@jennherrarte.dev"><h3 className="email">hello@jennherrarte.dev</h3></a>
+            <a target="_blank" href="mailto:jennherrarte93@gmail.com"><h3 className="email">jennherrarte93@gmail.com</h3></a>
             <br></br>
             <br></br>
           
