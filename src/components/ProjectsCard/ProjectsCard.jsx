@@ -16,9 +16,6 @@ const ProjectsCard = (props) => {
             </Card.Text>
             <br></br>
             <Button variant="primary"><a target="_blank" href={props.Link}>View Project</a></Button> 
-            <Button id="viewCode" variant="primary"><a target="_blank" href={props.Git}><i id="codeButton" className="bi bi-code"></i>View Code</a></Button>
-            
-
             </div>
             <div className="projectImages">
                 <img className="projectImage" src={props.img}/>
