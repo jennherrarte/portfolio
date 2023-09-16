@@ -9,7 +9,7 @@
     color: #2D2D2B;
 }
 
-@media (max-device-width: 375px) and (max-device-width : 812px) {
+@media (max-device-width: 375px) and (max-device-width : 820px) {
     .aboutP, header {
         display: flex;
         flex-direction: column;
