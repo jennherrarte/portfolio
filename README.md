@@ -8,7 +8,8 @@ This portfolio, which I developed following my graduation from a coding bootcamp
 - I would use Sass to implement mixins and functions.
 - I would implement animations for smoother transitions between projects.
 - I would showcase more screenshots of projects.
-- I would clean up the code and create a component library. 
+- I would clean up the code and create a component library.
+- I would integrate testing with Playwright.
 
 # Technologies used: 
 - React, HTML, JavaScript, Bootstrap
