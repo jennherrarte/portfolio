@@ -5,6 +5,7 @@
 This portfolio, which I developed following my graduation from a coding bootcamp in 2021, serves as a testament to my professional growth. While it remains a work in progress, I also hold a deep appreciation for the thoughtfully crafted design choices it encompasses.
 
 # 🤔 What I would do differently 
+- I would fix the mobile layouts and make the design more responsive. 
 - I would use Sass to implement mixins and functions.
 - I would implement animations for smoother transitions between projects.
 - I would showcase more screenshots of projects.
